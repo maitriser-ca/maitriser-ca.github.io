@@ -18,6 +18,10 @@
 h1, h2, h3, p {
   text-align: center;
 }
+h3 {
+  padding: 22px;
+  background-color: #eeeeee;
+}
 header.site-header, footer.site-footer {
   display: none;
 }
