@@ -8,12 +8,11 @@
 <h2>Maîtriser Bitcoin:<br>Programmer la cha&icirc;ne de blocs publique<br>2ième édition ouverte</h2>
 
 <img src="MB2EO-MY-BANNER_GITHUB.png" alt="Maîtriser Bitcoin: Programmer la chaîne de blocs publique" width="96%"/>
-</center>
+<br>
 
-Le livre **Maîtriser Bitcoin : Programmer la chaîne de blocs publique** (_**Mastering Bitcoin: Programming the Open Blockchain**_ par O'Reilly Media) tel qu'écrit originalement en anglais par _Andreas M. Antonopoulos_, traduit en français (Canada) par _Google Translate API_ et révisé par _Serafim Dos Santos_ avec les termes du [Grand dictionnaire terminologique (GDT)](https://gdt.oqlf.gouv.qc.ca/) de l'[Office qu&eacute;b&eacute;cois de la langue fran&ccedil;aise](https://www.oqlf.gouv.qc.ca/).
+<p>Le livre <b>Maîtriser Bitcoin : Programmer la chaîne de blocs publique</b> (<em><b>Mastering Bitcoin: Programming the Open Blockchain</b></em> par O'Reilly Media) tel qu'écrit originalement en anglais par <em>Andreas M. Antonopoulos</em>, traduit en français (Canada) par <em>Google Translate API</em> et révisé par <em>Serafim Dos Santos</em> avec les termes du <a href="https://gdt.oqlf.gouv.qc.ca/">Grand dictionnaire terminologique (GDT)</a> de l'<a href="https://www.oqlf.gouv.qc.ca/">Office qu&eacute;b&eacute;cois de la langue fran&ccedil;aise</a>.<p>
 
-<center>
-  <h3>👉 <a href="https://bitcoin.maitriser.ca" alt="">bitcoin.maitriser.ca</a> 👈</h3>
+<h3>👉 <a href="https://bitcoin.maitriser.ca" alt="">bitcoin.maitriser.ca</a> 👈</h3>
 </center>
 
 <style type="text/css" media=screen>
