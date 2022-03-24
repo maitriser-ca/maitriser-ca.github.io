@@ -16,7 +16,7 @@ Le livre **Maîtriser Bitcoin : Programmer la chaîne de blocs publique** (_**Ma
 
 <style type="text/css" media=screen>
 <!--
-header.site-header {
+header.site-header, footer.site-footer {
   display: none;
 }
 -->
