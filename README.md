@@ -14,22 +14,10 @@ Le livre **Maîtriser Bitcoin : Programmer la chaîne de blocs publique** (_**Ma
   <h3>👉 <a href="https://bitcoin.maitriser.ca" alt="">bitcoin.maitriser.ca</a> 👈</h3>
 </center>
 
-
-
-
-
-
-
-
-
-
-
-
-
-<STYLE TYPE="text/css" MEDIA=screen>
+<style type="text/css" media=screen>
 <!--
-.site-header {
+header.site-header {
   display: none;
 }
 -->
-</STYLE>
+</style>
