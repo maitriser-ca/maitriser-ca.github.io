@@ -3,7 +3,7 @@
 
 <p>Organisation personnelle de Serafim Dos Santos pour partager des documents éducatifs dans le domaine des sciences de l'information et des technologies de chaîne de blocs.</p>
 
-  <h2>Maîtriser Bitcoin : Programmer la cha&icirc;ne de blocs publique, 2ième édition ouverte</h2>
+  <h2>Maîtriser Bitcoin:<br>Programmer la cha&icirc;ne de blocs publique<br>2ième édition ouverte</h2>
 
 <img src="MB2EO-MY-BANNER_GITHUB.png" alt="Maîtriser Bitcoin: Programmer la chaîne de blocs publique" width="96%"/>
 </center>
