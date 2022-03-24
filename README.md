@@ -4,7 +4,7 @@
 
 <hr>
   
-<h2>Maîtriser Bitcoin:<br>Programmer la cha&icirc;ne de blocs publique<br>2ième édition ouverte</h2>
+<h2><strong>Maîtriser Bitcoin:</strong><br>Programmer la cha&icirc;ne de blocs publique<br>2ième édition ouverte</h2>
 
 <img src="MB2EO-MY-BANNER_GITHUB.png" alt="Maîtriser Bitcoin: Programmer la chaîne de blocs publique" width="96%"/>
 <br><br>
