@@ -1,4 +1,4 @@
-<center>
+<div class="c3-content">
 <h1>Maîtriser.ça!</h1>
 
 <p>Organisation personnelle de Serafim Dos Santos pour partager des documents éducatifs dans le domaine des sciences de l'information et des technologies de chaîne de blocs.</p>
@@ -14,10 +14,13 @@
 
 <h3>👉 <a href="https://bitcoin.maitriser.ca">bitcoin.maitriser.ca</a> 👈</h3>
   
-</center>
+</div>
 
 <style type="text/css" media=screen>
 <!--
+div.c3-content {
+  text-align: center;
+}
 header.site-header, footer.site-footer {
   display: none;
 }
