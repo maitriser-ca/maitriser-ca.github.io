@@ -1,5 +1,5 @@
 <center>
-<h1>Maîtriser ça! (maitriser.ca)</h1>
+<h1>Maîtriser.ça!</h1>
 
 <p>Organisation personnelle de Serafim Dos Santos pour partager des documents éducatifs dans le domaine des sciences de l'information et des technologies de chaîne de blocs.</p>
 
