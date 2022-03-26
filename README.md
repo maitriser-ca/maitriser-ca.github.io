@@ -13,6 +13,17 @@
 
 <h3>👉 <a href="https://bitcoin.maitriser.ca">bitcoin.maitriser.ca</a> 👈</h3>
 
+<hr>
+  
+<h2><strong>Maîtriser Ethereum:</strong><br>Implémenter des contrats numériques<br>1ère édition ouverte</h2>
+
+<img src="ME1OE-GITHUB_BANNER.png" alt="Maîtriser Ethereum: Implémenter des contrats numériques" width="96%"/>
+<br><br>
+
+<p>Le livre <b>Maîtriser Ethereum : Implémenter des contrats numériques</b> (<em><b>Mastering Ethereum: Implementing digital contracts</b></em> par O'Reilly Media) tel qu'écrit originalement en anglais par <em>Andreas M. Antonopoulos</em> et <em>Gavin Wood</em>, traduit en français (Canada) par <em>Google Translate API</em> et révisé par <em>Serafim Dos Santos</em> avec les termes du <a href="https://gdt.oqlf.gouv.qc.ca/">Grand dictionnaire terminologique (GDT)</a> de l'<a href="https://www.oqlf.gouv.qc.ca/">Office qu&eacute;b&eacute;cois de la langue fran&ccedil;aise</a>.<p>
+
+<h3>👉 <a href="https://ethereum.maitriser.ca">ethereum.maitriser.ca</a> 👈</h3>
+
 <style type="text/css" media=screen>
 <!--
 h1, h2, h3, p {
