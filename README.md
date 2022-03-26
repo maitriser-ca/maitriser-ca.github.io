@@ -24,6 +24,10 @@
 
 <h3>👉 <a href="https://ethereum.maitriser.ca">ethereum.maitriser.ca</a> 👈</h3>
 
+<footer>
+  <p>copyright &copy; 2022 Serafim Dos Santos</p>
+</footer>
+
 <style type="text/css" media=screen>
 <!--
 h1, h2, h3, p {
