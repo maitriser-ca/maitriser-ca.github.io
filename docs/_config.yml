@@ -22,7 +22,6 @@ title: Maîtriser ça! - www.maitriser.ca
 email: info@maitriser.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Maîtriser ces technologies de chaîne de blocs pour votre intellectualité et vos connaissances! Et ce gratuit!
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://maitriser.ca" # the base hostname & protocol for your site, e.g. http://example.com
 social_links:
   twitter: serafdossantos
