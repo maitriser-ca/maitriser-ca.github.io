@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Maîtriser.ça!
-
 Maitriser.ca est un site de toile internet offrant des documents informatifs et éducatifs sur les sujets de développement web 2.0 et 3.0 ansi que sur les technologies de chaînes de blocs / blockchain; et ce gratuitement!
 
 Les documents sur maitriser.ca ont habituellement un lien vers un référentiel GitHub. Les documents sont généralement du domaine public ou protégés par l'attribution Creative Commons.
