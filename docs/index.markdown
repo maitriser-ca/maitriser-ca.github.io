@@ -5,35 +5,35 @@
 layout: home
 ---
 
-<h1>Maîtriser.ça!</h1>
+# Maîtriser.ça!
 
-<p>Organisation personnelle de Serafim Dos Santos pour partager des documents éducatifs dans le domaine des sciences de l'information et des technologies de chaîne de blocs.</p>
+Maitriser.ca est un site de toile internet offrant des documents informatifs et éducatifs sur les sujets de développement web 2.0 et 3.0 ansi que sur les technologies de chaînes de blocs / blockchain; et ce gratuitement!
 
-<hr>
+Les documents sur maitriser.ca ont habituellement un lien vers un référentiel GitHub. Les documents sont généralement du domaine public ou protégés par l'attribution Creative Commons.
+
+Veuillez bien lire les pages README.md de chaque référentiels!
+
+---
   
-<h2><strong>Maîtriser Bitcoin:</strong><br>Programmer la cha&icirc;ne de blocs publique<br>2ième édition ouverte</h2>
+## **Maîtriser Bitcoin:** Programmer la cha&icirc;ne de blocs publique, 2ième édition ouverte
 
 <img src="assets/MB2EO-BANNER-002.png" alt="Maîtriser Bitcoin: Programmer la chaîne de blocs publique" width="96%"/>
 <br><br>
 
-<p>Le livre <b>Maîtriser Bitcoin : Programmer la chaîne de blocs publique</b> (<em><b>Mastering Bitcoin: Programming the Open Blockchain</b></em> par O'Reilly Media) tel qu'écrit originalement en anglais par <em>Andreas M. Antonopoulos</em>, traduit en français (Canada) par <em>Google Translate API</em> et révisé par <em>Serafim Dos Santos</em> avec les termes du <a href="https://gdt.oqlf.gouv.qc.ca/">Grand dictionnaire terminologique (GDT)</a> de l'<a href="https://www.oqlf.gouv.qc.ca/">Office qu&eacute;b&eacute;cois de la langue fran&ccedil;aise</a>.<p>
+Le livre **Maîtriser Bitcoin : Programmer la chaîne de blocs publique** (__*Mastering Bitcoin: Programming the Open Blockchain*__ par O'Reilly Media) tel qu'écrit originalement en anglais par __Andreas M. Antonopoulos__, traduit en français (Canada) par __Google Translate API__ et révisé par __Serafim Dos Santos__ avec les termes du [Grand dictionnaire terminologique (GDT)](https://gdt.oqlf.gouv.qc.ca/) de l'[Office qu&eacute;b&eacute;cois de la langue fran&ccedil;aise](https://www.oqlf.gouv.qc.ca/).
 
-<h3>👉 <a href="https://bitcoin.maitriser.ca">bitcoin.maitriser.ca</a> 👈</h3>
+### 👉 [bitcoin.maitriser.ca](https://bitcoin.maitriser.ca) 👈
 
-<hr>
-  
-<h2><strong>Maîtriser Ethereum:</strong><br>Implémenter des contrats numériques<br>1ère édition ouverte</h2>
+---
+
+## **Maîtriser Ethereum:** Implémenter des contrats numériques, 1ère édition ouverte
 
 <img src="assets/ME1OE-GITHUB_BANNER.png" alt="Maîtriser Ethereum: Implémenter des contrats numériques" width="96%"/>
 <br><br>
 
-<p>Le livre <b>Maîtriser Ethereum : Implémenter des contrats numériques</b> (<em><b>Mastering Ethereum: Implementing digital contracts</b></em> par O'Reilly Media) tel qu'écrit originalement en anglais par <em>Andreas M. Antonopoulos</em> et <em>Gavin Wood</em>, traduit en français (Canada) par <em>Google Translate API</em> et révisé par <em>Serafim Dos Santos</em> avec les termes du <a href="https://gdt.oqlf.gouv.qc.ca/">Grand dictionnaire terminologique (GDT)</a> de l'<a href="https://www.oqlf.gouv.qc.ca/">Office qu&eacute;b&eacute;cois de la langue fran&ccedil;aise</a>.<p>
+Le livre **Maîtriser Ethereum : Implémenter des contrats numériques** (__*Mastering Ethereum: Implementing digital contracts*__ par O'Reilly Media) tel qu'écrit originalement en anglais par __Andreas M. Antonopoulos__ et __Gavin Wood__, traduit en français (Canada) par __Google Translate API__ et révisé par __Serafim Dos Santos__ avec les termes du [Grand dictionnaire terminologique (GDT)](https://gdt.oqlf.gouv.qc.ca/) de l'[Office qu&eacute;b&eacute;cois de la langue fran&ccedil;aise](https://www.oqlf.gouv.qc.ca/).
 
-<h3>👉 <a href="https://ethereum.maitriser.ca">ethereum.maitriser.ca</a> 👈</h3>
-
-<footer>
-  <p>copyright &copy; 2022 Serafim Dos Santos</p>
-</footer>
+### 👉 [ethereum.maitriser.ca](https://ethereum.maitriser.ca) 👈
 
 <style type="text/css" media=screen>
 <!--
@@ -45,7 +45,7 @@ h3 {
   background-color: #eeeeee;
 }
 header.site-header, footer.site-footer {
-  display: none;
+  display: visible;
 }
 -->
 </style>
