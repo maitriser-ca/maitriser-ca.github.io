@@ -33,9 +33,21 @@ Le livre **Maîtriser Ethereum : Implémenter des contrats numériques** (__*Mas
 
 ### 👉 [ethereum.maitriser.ca](https://ethereum.maitriser.ca) 👈
 
+---
+
+## **Maîtriser l'informatique**
+
+Un regroupement de documents informatifs et éducatifs sur les technologies de l'information.
+
+Ce sous-site contient un extrait du référentiel [github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) où seul les documents en français s’y retrouvent. Offrant généralement des livres sur la programmation informatique, on y trouve aussi des cours et des guides sous plusieur thèmes des TIs.
+
+Toujours en français et gratuit !
+
+###  👉 [informatique.maitriser.ca](https://informatique.maitriser.ca) 👈
+
 <style type="text/css" media=screen>
 <!--
-h1, h2, h3, p {
+h1, h2, h3, p, img {
   text-align: center;
 }
 h3 {
