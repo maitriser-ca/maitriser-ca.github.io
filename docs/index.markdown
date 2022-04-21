@@ -37,8 +37,8 @@ Le livre **Maîtriser Ethereum : Implémenter des contrats numériques** (__*Mas
 
 ## **Maîtriser l'informatique**
 
-![](assets/annie-spratt-4E1JOFK55kc-unsplash.jpg)
-Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/s/photos/computer-books?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+![](assets/florian-klauer-mk7D-4UCfmg-unsplash.jpg)
+Photo by <a href="https://unsplash.com/@florianklauer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Florian Klauer</a> on <a href="https://unsplash.com/@citadin5/likes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 Un regroupement de documents informatifs et éducatifs sur les technologies de l'information.
 
