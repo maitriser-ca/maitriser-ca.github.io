@@ -37,6 +37,9 @@ Le livre **Maîtriser Ethereum : Implémenter des contrats numériques** (__*Mas
 
 ## **Maîtriser l'informatique**
 
+![](assets/annie-spratt-4E1JOFK55kc-unsplash.jpg)
+Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/s/photos/computer-books?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 Un regroupement de documents informatifs et éducatifs sur les technologies de l'information.
 
 Ce sous-site contient un extrait du référentiel [github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) où seuls les documents en français s’y retrouvent. Offrant généralement des livres sur la programmation informatique, on y trouve aussi des formations et des guides sous plusieurs thèmes en TI.
