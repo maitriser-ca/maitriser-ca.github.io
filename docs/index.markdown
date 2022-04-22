@@ -37,7 +37,7 @@ Le livre **Maîtriser Ethereum : Implémenter des contrats numériques** (__*Mas
 
 ## **Maîtriser l'informatique:** Documents éducatifs sur les sciences informatiques
 
-![Photo by Florian Klauer on Unsplash](assets/florian-klauer-mk7D-4UCfmg-unsplash-FHD-B.jpg)
+![Photo by Florian Klauer on Unsplash](assets/florian-klauer-mk7D-4UCfmg-unsplash-FHD-B.png)
 Photo by <a href="https://unsplash.com/@florianklauer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Florian Klauer</a> on <a href="https://unsplash.com/@citadin5/likes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 Un regroupement de documents informatifs et éducatifs sur les technologies de l'information.
