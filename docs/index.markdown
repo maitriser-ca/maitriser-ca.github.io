@@ -42,7 +42,7 @@ Photo by <a href="https://unsplash.com/@florianklauer?utm_source=unsplash&utm_me
   
 Un regroupement de documents informatifs et éducatifs sur les technologies de l'information.
 
-Ce sous-site contient un extrait du référentiel [github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) où seuls les documents en français s’y retrouvent. Offrant généralement des livres sur la programmation informatique, on y trouve aussi des formations et des guides sous plusieurs thèmes en TI.
+Ce sous-site contient un extrait du référentiel [github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) d'où seuls les documents en français ci-retrouvent. Offrant généralement des livres sur la programmation informatique, on y trouve aussi des formations et des guides sous plusieurs thèmes en TI.
 
 Toujours en français et gratuit !
 
