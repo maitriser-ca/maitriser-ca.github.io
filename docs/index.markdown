@@ -47,18 +47,3 @@ Ce sous-site contient un extrait du référentiel [github.com/EbookFoundation/fr
 Toujours en français et gratuit !
 
 ###  👉 [informatique.maitriser.ca](https://informatique.maitriser.ca) 👈
-
-<style type="text/css" media=screen>
-<!--
-h1, h2, h3, p, img {
-  text-align: center;
-}
-h3 {
-  padding: 22px;
-  background-color: #eeeeee;
-}
-header.site-header, footer.site-footer {
-  display: visible;
-}
--->
-</style>
