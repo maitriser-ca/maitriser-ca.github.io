@@ -26,8 +26,8 @@ Le livre **Maîtriser Bitcoin : Programmer la chaîne de blocs publique** (__*Ma
 
 ## **Maîtriser Ethereum:** Implémenter des contrats numériques, 1ère édition ouverte
 
-<img src="assets/ME1OE-GITHUB_BANNER.png" alt="Maîtriser Ethereum: Implémenter des contrats numériques" width="96%"/>
-<br><br>
+<!-- img src="assets/ME1OE-GITHUB_BANNER.png" alt="Maîtriser Ethereum: Implémenter des contrats numériques" width="96%"/>
+<br><br -->
 
 Le livre **Maîtriser Ethereum : Implémenter des contrats numériques** (__*Mastering Ethereum: Implementing digital contracts*__ par O'Reilly Media) tel qu'écrit originalement en anglais par __Andreas M. Antonopoulos__ et __Gavin Wood__, traduit en français (Canada) par __Google Translate API__ et révisé par __Serafim Dos Santos__ avec les termes du [Grand dictionnaire terminologique (GDT)](https://gdt.oqlf.gouv.qc.ca/) de l'[Office qu&eacute;b&eacute;cois de la langue fran&ccedil;aise](https://www.oqlf.gouv.qc.ca/).
 
