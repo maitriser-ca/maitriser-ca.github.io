@@ -15,7 +15,7 @@ Veuillez bien lire les pages README.md de chaque référentiels!
 
 ## **Maîtriser Bitcoin:** Programmer la cha&icirc;ne de blocs publique, 2ième édition ouverte
 
-<img src="assets/MB2EO-GITHUB_BANNER-003.jpg" alt="Maîtriser Bitcoin: Programmer la chaîne de blocs publique" width="96%"/>
+<img src="assets/MB2EO-GITHUB_BANNER-004.jpg" alt="Maîtriser Bitcoin: Programmer la chaîne de blocs publique" width="96%"/>
 <br><br>
 
 Le livre **Maîtriser Bitcoin : Programmer la chaîne de blocs publique** (__*Mastering Bitcoin: Programming the Open Blockchain*__ par O'Reilly Media) tel qu'écrit originalement en anglais par __Andreas M. Antonopoulos__, traduit en français (Canada) par __Google Translate API__ et révisé par __Serafim Dos Santos__ avec les termes du [Grand dictionnaire terminologique (GDT)](https://gdt.oqlf.gouv.qc.ca/) de l'[Office qu&eacute;b&eacute;cois de la langue fran&ccedil;aise](https://www.oqlf.gouv.qc.ca/).
