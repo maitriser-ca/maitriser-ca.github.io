@@ -35,11 +35,11 @@ Le livre **Maîtriser Ethereum : Développer des contrats intelligents et des DA
 
 ---
 
-## **Maîtriser le Lightning Network:**
+## **Maîtriser le réseau Lightning:**
 
-Le livre **Maîtriser le Lightning Network** (__Mastering the Lightning Network__ par O’Reilly Media) tel qu’écrit originalement en anglais par __Andreas M. Antonopoulos__, __Olaoluwa Osuntokun__ et __Rene Pickhardt__ traduit en français (Canada) par __Google Translate API__ et révisé par __Serafim Dos Santos__ avec les termes du [Grand dictionnaire terminologique (GDT)](https://gdt.oqlf.gouv.qc.ca/) de l'[Office qu&eacute;b&eacute;cois de la langue fran&ccedil;aise](https://www.oqlf.gouv.qc.ca/).
+Le livre **Maîtriser le réseau Lightning** (__Mastering the Lightning Network__ par O’Reilly Media) tel qu’écrit originalement en anglais par __Andreas M. Antonopoulos__, __Olaoluwa Osuntokun__ et __Rene Pickhardt__ traduit en français (Canada) par __Google Translate API__ et révisé par __Serafim Dos Santos__ avec les termes du [Grand dictionnaire terminologique (GDT)](https://gdt.oqlf.gouv.qc.ca/) de l'[Office qu&eacute;b&eacute;cois de la langue fran&ccedil;aise](https://www.oqlf.gouv.qc.ca/).
 
-### 👉 [lightnet.maitriser.ca](https://lightnet.maitriser.ca) 👈
+### 👉 [lightning.maitriser.ca](https://lightning.maitriser.ca) 👈
 
 ---
 
