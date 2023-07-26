@@ -55,3 +55,6 @@ Ce sous-site contient un extrait du référentiel [github.com/EbookFoundation/fr
 Toujours en français et gratuit !
 
 ###  👉 [informatique.maitriser.ca](https://informatique.maitriser.ca) 👈
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1609260803650315"
+     crossorigin="anonymous"></script>
